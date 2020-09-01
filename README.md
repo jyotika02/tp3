@@ -14,7 +14,7 @@ roslaunch udm_hand_moveit_config demo.launch
 
 Part 2
 cd catkin_ws/src  
-git clone https://github.com/azezezaaa/udm_ri_ros.git  
+git clone https://github.com/jyotika02/udm_ri_ros.git  
 mv udm_ri_ros/* . && rm -rf udm_ri_ros/  
 cd ..  
 catkin clean -y && catkin build  
