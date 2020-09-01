@@ -4,7 +4,7 @@ This folder corresponds to "Animer un urdf via Move it".
 
 Part 1
 cd catkin_ws/src  
-git clone https://github.com/jyotika02/tp3s.git  
+git clone https://github.com/jyotika02/tp3.git  
 mv udm_ri_ros/udm_hand_moveit_config/ . && rm -rf udm_ri_ros/  
 cd ..  
 catkin build  
